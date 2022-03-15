@@ -1,0 +1,32 @@
+*{
+    padding: 0;
+    margin: 0;
+    color: blue;
+}
+body{
+    background-color: #EFC7B7;
+}
+/* .container{
+    height: 100vh;
+    width: 100%;
+} */
+/* .Userinfo{
+    height: 20px;
+    width: 120px;
+    background-color: rgb(3, 109, 109);
+} */
+.Userinfo img{
+    height: 30px;
+}
+.header{
+    height: 50px;
+    width: cover;
+    background-color: #bccbde;
+}
+.header h1{
+    color: rgb(0, 0, 0);
+}
+#table{
+    border: 3px #000000 solid;
+    background-color: #c2dde6;
+}
