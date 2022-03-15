@@ -21,13 +21,32 @@ body{
 .header{
     height: 50px;
     width: cover;
-    background-color: #bccbde;
+    background-color: rgb(188, 203, 222);
 }
 .header h1{
     color: rgb(0, 0, 0);
 }
 #table{
     width: 100%;
-    border: 3px #000000 solid;
     background-color: #c2dde6;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#table thead tr th{
+    height: 65px;
+    background-color: rgb(160, 190, 236);
+    color: aliceblue;
+}
+#table tbody tr td{
+    height: 35px;
+    padding-left: 200px;
+}
+#table tbody tr td:nth-child(even){
+    padding-left: 230px;
+}
+#table tbody tr:nth-child(even) td{
+    background-color: rgb(177, 247, 223);
+    color: rgb(0, 0, 0);
+}#table tbody tr:nth-child(odd) td{
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
 }
