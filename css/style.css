@@ -27,6 +27,7 @@ body{
     color: rgb(0, 0, 0);
 }
 #table{
+    width: 100%;
     border: 3px #000000 solid;
     background-color: #c2dde6;
 }
