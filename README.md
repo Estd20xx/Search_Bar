@@ -1,6 +1,6 @@
-# Search Bar
+# Search Bar [<a href="../../"><img src="https://img.shields.io/github/repo-size/estd20xx/Search_Bar?style=flat-square" alt="Repository size"></a>]
 This is the search Bar Demo which filter the data from the table.
- 
+
  ## click link for website Demo
 Links : https://estd20xx.github.io/Search_Bar/
 
