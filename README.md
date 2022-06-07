@@ -1,3 +1,4 @@
+# Search Bar
 This is the search Bar Demo which filter the data from the table.
  
  ## click link for website Demo
