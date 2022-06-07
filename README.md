@@ -1,4 +1,4 @@
-# Search_Bar
+This is the search Bar Demo which filter the data from the table.
  
  ## click link for website Demo
 Links : https://estd20xx.github.io/Search_Bar/
